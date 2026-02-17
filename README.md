@@ -10,3 +10,4 @@ The objective of this project is to analyze pizza sales data and create an inter
 - <a href="https://github.com/ujjwalk-21/Pizza-sales-dashboard--data-analysis/blob/main/pizzas.csv">Dataset</a>
 
 ## Dashboard
+- <a href="https://github.com/ujjwalk-21/Pizza-sales-dashboard--data-analysis/blob/main/pizza%20sales.pbix">view dashboard</a>
